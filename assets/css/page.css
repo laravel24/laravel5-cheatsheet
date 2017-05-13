@@ -25,6 +25,7 @@ body {
   padding: 10px;
   color: #57a863;
   z-index: 9999;
+    display:none;
 }
 #top-button:hover {
   background: #ddd;
